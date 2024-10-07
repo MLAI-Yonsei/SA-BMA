@@ -4,7 +4,6 @@
 >> [Sungjun Lim](https://sungjun98.github.io/), [Jeyoon Yeom](https://www.linkedin.com/in/jeyoon-yeom-31107b2a3/), [Sooyon Kim](https://github.com/sooyonee), [Hoyoon Byun](https://drive.google.com/file/d/14YhY6kEkBV-r9F3zC3Fu3jprCQ0MzmH7/view), [Jinho Kang](https://bubble3jh.github.io/), [Yohan Jung](https://e2ee22.github.io/), [Jiyoung Jung](https://rcv.uos.ac.kr/), [Kyungwoo Song](https://mlai.yonsei.ac.kr/)
 
 ------
-------
 
 </br>
 
@@ -14,7 +13,6 @@
 > * Sharpness-Aware Bayesian Model Averaging (SA-BMA) is a novel optimizer that seeks flat posteriors by calculating divergence in the parameter space.
 > * Bayesian Transfer Learning scheme efficiently leverages the  pre-trained model.
 
-------
 ------
 
 </br>
@@ -34,7 +32,6 @@ pip install -r requirements.txt
 ```
 
 ------
-------
 
 </br>
 
@@ -53,7 +50,6 @@ pip install -r requirements.txt
 > * **ImageNet-V2, ImageNet-R, ImageNet-A, ImageNet-Sketch**
 > To prepared 4 variants of ImageNet, please follow the instructino from https://github.com/mlfoundations/wise-ft/blob/master/datasets.md
 
----------
 ---------
 
 </br>
@@ -191,7 +187,6 @@ run_sabma.py --dataset=CIFAR100 --data_path=<DATA_PATH> \
 * ```LOW_RANK``` &mdash; low-rank of covariance. `-1` denotes using the rank of prior.
 
 ---------
----------
 
 </br>
 
@@ -199,7 +194,6 @@ run_sabma.py --dataset=CIFAR100 --data_path=<DATA_PATH> \
 For any questions, discussions, and proposals, please contact to `lsj9862@yonsei.ac.kr` or `kyungwoo.song@gmail.com`
 
 
----------
 ---------
 
 </br>
@@ -215,7 +209,6 @@ If you use our code in your research, please kindly consider citing:
 }
 ```
 
----------
 ---------
 
 </br>
