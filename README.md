@@ -20,7 +20,7 @@
 ## Setup
 
 ```
-git clone https://github.com/SungJun98/SA-BMA.git
+git clone https://github.com/MLAI-Yonsei/SA-BMA.git
 cd SA-BMA
 
 # Create and activate a conda environment
